@@ -10,6 +10,10 @@ I am a passionate software development student based in Nairobi, Kenya. I enjoy 
 
 * JavaScript, HTML, CSS
 * React
+* Kotlin
+* C#
+* .NET
+* Python
 * Git & GitHub
 * VS Code
 
@@ -23,13 +27,11 @@ A simple and responsive task management app built using React.
 * Built using React hooks
 * Clean and user-friendly interface
 
-👉 Check it out here: [Paste your GitHub project link]
-
-## 📊 GitHub Stats
+👉 Check it out here: https://github.com/Xjomwnd2/Portfolio.git
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername)
 
 ## 📫 Contact Me
 
-* LinkedIn: https://linkedin.com/in/yourprofile
+* LinkedIn: https://www.linkedin.com/in/joel-mwaura-72a27015b/
 * Email: joelndiba98@gmail.com
