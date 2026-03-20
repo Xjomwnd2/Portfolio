@@ -17,7 +17,7 @@ I am a passionate software development student based in Nairobi, Kenya. I enjoy 
 * Git & GitHub
 * VS Code
 
-## 📌 Projects
+## 📌 Portfolio, .NET Razor
 
 ### 📝 To-Do App (React)
 
