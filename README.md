@@ -1,6 +1,6 @@
 # Portfolio
 My Portfolio Review
-# Hi, I'm Joel Ndiba 👋
+# Hi, I'm Joel Ndiba Mwaura👋
 
 ## 🚀 About Me
 
