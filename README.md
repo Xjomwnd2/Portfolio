@@ -8,3 +8,9 @@
         GitHub: <a href="https://github.com/Xjomwnd2" target="_blank">
         github.com/Xjomwnd2</a>
     </p>
+    <p>
+      <a href="#projects" class="btn btn-primary">View Projects</a>
+      <a href=" https://xjomwnd2.github.io/Portfolio/" target="_blank" class="btn btn-outline">Portfolio</a>
+      <a href="https://xjomwnd2.github.io/Resume/" target="_blank" class="btn btn-outline">View Résumé</a>
+      <a href="https://github.com/Xjomwnd2" target="_blank" class="btn btn-outline">GitHub</a>
+    <p/>
