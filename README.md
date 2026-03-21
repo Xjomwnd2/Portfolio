@@ -1,3 +1,5 @@
+    <p><strong>PORTFOLIO USE GUIDE</strong>USE THE LINKS BELOW TO ACCESS THE PORTFOLIO AND ITS CONTENT INCLUDING THE RESUME </p>>
+    
     <p class="contact">
         Eldoret City, Kenya • 
         <a href="mailto:Joelndiba98@gmail.com">Joelndiba98@gmail.com</a><br>
